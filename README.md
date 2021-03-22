@@ -7,9 +7,6 @@ Contains Jupyter notebooks and other materials prepared for the course Numerical
 ## Interactive notebooks
 Access interactive notebooks at https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD
 
-## Contact
-For comments, questions, suggestions or requests please write to ramakrishnan@tifrh.res.in 
-
 ## Syllabus (tentative): 
 
 1. Python: Writing/running codes: Editors, Ipython; modules, matplotlib, numpy
@@ -35,5 +32,8 @@ For comments, questions, suggestions or requests please write to ramakrishnan@ti
 11. Application to Chemical Physics: Molecular thermodynamics (Ideal gas, harmonic oscillator, rigid rotor partition functions), Equation of states, Schroedinger equation of Hydrogen molecule cation, Hartree-Fock for He atom, Linear variational problems in Quantum mechanics (1D potentials, Tunneling problems), Potential energy surface fitting, Time-dependent Schroedinger equation. 
 
 12. Optional Topic: Krylov Subspace Techniques, Lanczos iteration
+
+## Contact
+For comments, questions, suggestions or requests please write to ramakrishnan@tifrh.res.in 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raghurama123.svg?style=social&label=Follow%20%40raghurama123)](https://twitter.com/raghurama123)
