@@ -11,7 +11,7 @@ Access interactive notebooks at https://mybinder.org/v2/gh/raghurama123/nm2021/H
 
 1. Python: Writing/running codes, Jupyter notebooks, modules
 
-2. Linear Equations: Direct methods: Cramer's rule, row-reduction, forward/backward substitution, Gaussian elimination, Cholesky decomposition
+2. Linear Equations: Direct methods: Cramer's rule, row-reduction, forward/backward substitution, Gaussian elimination; LU factorization: Cholesky's method
 
 3. Curve Fitting: Least squares fitting, polynomial interpolation, splines
 
