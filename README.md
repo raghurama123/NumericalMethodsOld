@@ -9,9 +9,9 @@ Access interactive notebooks at https://mybinder.org/v2/gh/raghurama123/nm2021/H
 
 ## Syllabus (tentative): 
 
-1. Python: Writing/running codes: Editors, Ipython; modules, matplotlib, numpy
+1. Python: Writing/running codes, Jupyter notebooks, modules
 
-2. Linear Equations: Gaussian elimination, LU decomposition, Direct/Iterative methods
+2. Linear Equations: Direct methods: Cramer's rule, row-reduction, forward/backward substitution, Gaussian elimination, Cholesky decomposition
 
 3. Curve Fitting: Least squares fitting, polynomial interpolation, splines
 
@@ -31,7 +31,7 @@ Access interactive notebooks at https://mybinder.org/v2/gh/raghurama123/nm2021/H
 
 11. Application to Chemical Physics: Molecular thermodynamics (Ideal gas, harmonic oscillator, rigid rotor partition functions), Equation of states, Schroedinger equation of Hydrogen molecule cation, Hartree-Fock for He atom, Linear variational problems in Quantum mechanics (1D potentials, Tunneling problems), Potential energy surface fitting, Time-dependent Schroedinger equation. 
 
-12. Optional Topic: Krylov Subspace Techniques, Lanczos iteration
+12. Optional Topic: Krylov Subspace Techniques, Lanczos iteration, Iterative methods
 
 ## Contact
 For comments, questions, suggestions or requests please write to ramakrishnan@tifrh.res.in 
