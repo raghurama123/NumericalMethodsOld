@@ -1,7 +1,7 @@
 # nm2021
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Numpy](https://img.shields.io/badge/Module-Numpy-brightgreen.svg)](https://numpy.org/)
+[![Python3](https://img.shields.io/badge/Language-Python3-red.svg)](https://www.python.org/download/releases/3.0/)
 
 
 Contains Jupyter notebooks and other materials prepared for the course Numerical Methods offered at TIFR Hyderabad (https://www.tifrh.res.in/~ramakrishnan/index.php/teaching/)
