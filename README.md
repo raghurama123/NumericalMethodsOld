@@ -31,11 +31,9 @@ Access interactive notebooks at https://mybinder.org/v2/gh/raghurama123/nm2021/H
 
 10. Symmetric Matrix Eigenvalue Problems: Jacobi rotations, Power/inverse power method, Tridiagonal form
 
-11. Introduction to SciPy
+11. Application to Chemical Physics: Molecular thermodynamics (Ideal gas, harmonic oscillator, rigid rotor partition functions), Equation of states, Schroedinger equation of Hydrogen molecule cation, Hartree-Fock for He atom, Linear variational problems in Quantum mechanics (1D potentials, Tunneling problems), Potential energy surface fitting, Time-dependent Schroedinger equation. 
 
-12. Application to Chemical Physics: Molecular thermodynamics (Ideal gas, harmonic oscillator, rigid rotor partition functions), Equation of states, Schroedinger equation of Hydrogen molecule cation, Hartree-Fock for He atom, Linear variational problems in Quantum mechanics (1D potentials, Tunneling problems), Potential energy surface fitting, Time-dependent Schroedinger equation. 
-
-13. Optional Topics: Krylov Subspace Techniques, Lanczos iteration, Iterative linear solvers, Non-linear regression, Matrices: Rank and condition numbers
+12. Optional Topics: Krylov Subspace Techniques, Lanczos iteration, Iterative linear solvers, Non-linear regression, Matrices: Rank and condition numbers
 
 ## Contact
 For comments, questions, suggestions or requests please write to ramakrishnan@tifrh.res.in 
