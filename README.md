@@ -15,7 +15,7 @@ Access interactive notebooks at https://mybinder.org/v2/gh/raghurama123/nm2021/H
 
 2. Linear Equations: Direct methods: Cramer's rule, row-reduction, forward/backward substitution, Gaussian elimination; LU factorization: Cholesky's method
 
-3. Data Modeling: Approximations: least squares fitting; Interpolation: polynomial interpolation, cubic splines
+3. Data Modeling: Approximations: least squares fitting; Interpolation: polynomial interpolation, `scipy.interpolate.interp1d`
 
 4. Root finding: Graphical, bisection, Newton-Raphson
 
