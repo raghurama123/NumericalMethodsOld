@@ -9,7 +9,7 @@ Contains Jupyter notebooks and other materials prepared for the course Numerical
 ## Interactive notebooks
 Access interactive notebooks at https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD
 
-## Syllabus (tentative): 
+## Syllabus: 
 
 1. Python: Writing/running codes, Jupyter notebooks, modules
 
