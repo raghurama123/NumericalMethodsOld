@@ -17,9 +17,9 @@ Access interactive notebooks at https://mybinder.org/v2/gh/raghurama123/nm2021/H
 
 3. Data Modeling: Approximations: least squares fitting; Interpolation: polynomial interpolation, `scipy.interpolate.interp1d`
 
-4. Root finding: The problem, fixed-point iteration, bisection method, Newton-Raphson method (1-D), Newton-Raphson method (n-D), Jacobian matrix, pseudo-inverse, secant method, Broyden, `scipy.optimize` 
+4. Root finding: The problem, fixed-point iteration, bisection method, Newton-Raphson method (1-D and n-D), Jacobian matrix, pseudo-inverse, quasi-Newton method (1-D: secant method, n-D: Broyden), `scipy.optimize` 
 
-5. Minimization/Optimization: 1-D problems, N-D problems, Powell’s method, Simplex method
+5. Minimization/Optimization: 1-D problems, n-D problems, Powell’s method, Simplex method
 
 6. Numerical Differentiation: Finite difference; Error analysis
 
