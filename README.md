@@ -19,7 +19,7 @@ Access interactive notebooks at https://mybinder.org/v2/gh/raghurama123/nm2021/H
 
 4. Root finding: The problem, fixed-point iteration, bisection method, Newton-Raphson method (1-D and n-D), Jacobian matrix, pseudo-inverse, quasi-Newton method (1-D: secant method, n-D: Broyden), `scipy.optimize` 
 
-5. Minimization/Optimization: 1-D problems, n-D problems, `scipy.optimize.minimize(method=’L-BFGS-B’)`, Simplex method
+5. Optimization/Minimization: 1-D problems, n-D problems, `scipy.optimize.minimize(method=’L-BFGS-B’)`, Simplex method
 
 6. Numerical Differentiation: Finite difference; Error analysis
 
