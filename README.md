@@ -38,4 +38,4 @@ Access interactive notebooks at https://mybinder.org/v2/gh/raghurama123/nm2021/H
 ## Contact
 For comments, questions, suggestions or requests please write to ramakrishnan@tifrh.res.in 
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raghurama123.svg?style=social&label=Follow%20%40raghurama123)](https://twitter.com/raghurama123)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raghurama123.svg?style=social&label=%20%40raghurama123)](https://twitter.com/raghurama123)
