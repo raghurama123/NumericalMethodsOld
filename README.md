@@ -22,7 +22,7 @@ or click the 'code' botton above and then click 'Download zip'
 
 _If you also Fork the material, then replace 'raghurama123' above with your 'username'_
 
-3. If you want to try the material in a web browser, i.e., to test the code or make small changes and run the code, you can access this repository at the interactive platform Binder bly clicking the link: https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD
+3. If you want to try the material in a web browser, i.e., to test the code or make small changes and run the code, you can access this repository at the interactive platform Binder bly clicking the link: https://mybinder.org/v2/gh/raghurama123/NumericalMethods/HEAD
 
 _If you also Fork the material, then replace 'raghurama123' above with your 'username'_
 
