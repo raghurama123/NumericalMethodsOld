@@ -10,7 +10,7 @@ Contains Jupyter notebooks and other materials prepared for the course Numerical
 
 First of all, this material is made available on the GitHub to encourage others access it freely, maintain a local copy, and may be even contribute corrections or new material. So, you can follow the _following three steps_ freely, i.e., without having to commit to responsibilities. 
 
-1. If you think that you will use (or reuse) this material (or a part of it) for any other  purpose, you should sign-in to github by creating an account, and then click the 'Fork' button on the top-right. Then, you will get a local copy to play with. You will also be notified when any changes is made to this master version. You will be able to merge the new changes to your own copy of this repository.
+1. If you think that you will ever use (or reuse) this material (or a part of it) for any other  purpose, you should sign-in to github by creating an account, and then click the 'Fork' button on the top-right. Then, you will get a local copy to play with. You will also be notified when any changes is made to this master version. You will be able to merge the new changes to your own copy of this repository.
 
 2. To download the content to your computer, type the following in a terminal
 
@@ -20,7 +20,11 @@ git clone https://github.com/raghurama123/NumericalMethods.git
 
 or click the 'code' botton above and then click 'Download zip'
 
+_If you also Fork the material, then replace 'raghurama123' above with your 'username'_
+
 3. If you want to try the material in a web browser, i.e., to test the code or make small changes and run the code, you can access this repository at the interactive platform Binder bly clicking the link: https://mybinder.org/v2/gh/raghurama123/nm2021/HEAD
+
+_If you also Fork the material, then replace 'raghurama123' above with your 'username'_
 
 ## Syllabus: 
 
