@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python3](https://img.shields.io/badge/Language-Python3-red.svg)](https://www.python.org/download/releases/3.0/)
 
-This repository contains Jupyter notebooks, images, PDFs, etc. prepared for the course _Numerical Methods_ offered for Ph. D. students at TIFR Hyderabad (https://www.tifrh.res.in/~ramakrishnan/index.php/teaching/)
+This repository contains Jupyter notebooks, images, PDFs, etc. prepared for the course _Numerical Methods_ offered for Ph. D. students at TIFR Hyderabad (https://moldis-group.github.io/teaching.html)
 
 ## How to access this material?
 
