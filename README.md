@@ -51,12 +51,12 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 
 12. Optional Topics: Krylov Subspace Techniques, Lanczos iteration, Iterative linear solvers, Non-linear regression, Matrices: Rank and condition numbers
 
-## _References:_     
+## References:     
 Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge University Press (2013).      
 A Student’s Guide to Python for Physical Modeling, Jesse M. Kinder, Philip Nelson, Princeton University Press (2018).       
 Numerical Methods, W. Boehm, H. Prautzsch, Universities Press, 2000.       
 
-## _Additional reading:_    
+## Additional reading:    
 [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
 [Square Roots from 1; 24, 51, 10 to Dan Shanks](https://www.maa.org/programs/maa-awards/writing-awards/square-roots-from-1-24-51-10-to-dan-shanks)      
 [Babylon and the square root of 2](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)      
