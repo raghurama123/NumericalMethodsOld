@@ -54,7 +54,7 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 ## References:     
 1. Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge University Press (2013).     
 2. A Student’s Guide to Python for Physical Modeling, Jesse M. Kinder, Philip Nelson, Princeton University Press (2018).     
-3. Numerical Methods, W. Boehm, H. Prautzsch, Universities Press, 2000.       
+3. Numerical Methods, W. Boehm, H. Prautzsch, Universities Press (2000).       
 
 ## Additional reading:    
 [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
