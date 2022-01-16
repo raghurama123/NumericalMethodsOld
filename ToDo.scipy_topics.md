@@ -5,4 +5,3 @@
 5. [`scipy.integrate`](https://scipy.github.io/devdocs/reference/integrate.html)  
 6. [`scipy.fft`](https://scipy.github.io/devdocs/reference/fft.html)
 7. [`scipy.stats`](https://scipy.github.io/devdocs/reference/stats.html)
-8. 
