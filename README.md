@@ -56,6 +56,8 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 2. A Student’s Guide to Python for Physical Modeling, Jesse M. Kinder, Philip Nelson, Princeton University Press (2018).     
 3. Numerical Methods, W. Boehm, H. Prautzsch, Universities Press (2000).     
 4. Elementary Numerical Analysis: An Algorithmic Approach, Samuel D. Conte, Carl de Boor, Edition 3, McGraw-Hill (1981).       
+5. Introductory Numerical Analysis, Anthony J. Pettofrezzo, Dover (2006).   
+6. Elementary Theory and Application of Numerical Analysis, David G. Moursund, Charles S. Duris, Dover (1988).   
 
 ## Additional reading:    
 [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
