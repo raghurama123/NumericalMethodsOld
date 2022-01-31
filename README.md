@@ -53,12 +53,12 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 
 ## References:     
 1. Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge University Press (2013).<img src="https://img.shields.io/badge/Language-Python-red.svg" align="right"/>    
-2. A Student’s Guide to Python for Physical Modeling, Jesse M. Kinder, Philip Nelson, Princeton University Press (2018).<img src="https://img.shields.io/badge/Language-Python-red.svg" align="right"/>    
+2. A Student’s Guide to Python for Physical Modeling, Jesse M. Kinder, Philip Nelson, Princeton University Press (2018).<img src="https://img.shields.io/badge/Language-Python-red.svg" align="right"/>        
 3. Numerical Methods, W. Boehm, H. Prautzsch, Universities Press (2000).     
-4. Introduction to Numerical Computation, Lars Elden, Linde Wittmeyer-Koch, Hans Bruun Nielsen, Overseas Press (2006).<img src="https://img.shields.io/badge/Language-Matlab-blue.svg" align="right"/>
-5. Elementary Numerical Analysis: An Algorithmic Approach, Samuel D. Conte, Carl de Boor, Edition 3, McGraw-Hill (1981).<img src="https://img.shields.io/badge/Language-Fortran-green.svg" align="right"/>     
-6. Introductory Numerical Analysis, Anthony J. Pettofrezzo, Dover (2006).   
-7. Elementary Theory and Application of Numerical Analysis, David G. Moursund, Charles S. Duris, Dover (1988). <img src="https://img.shields.io/badge/Language-Fortran-green.svg" align="right"/>
+4. Introduction to Numerical Computation, Lars Elden, Linde Wittmeyer-Koch, Hans Bruun Nielsen, Overseas Press (2006).<img src="https://img.shields.io/badge/Language-Matlab-blue.svg" align="right"/>     
+5. Elementary Numerical Analysis: An Algorithmic Approach, Samuel D. Conte, Carl de Boor, Edition 3, McGraw-Hill (1981).<img src="https://img.shields.io/badge/Language-Fortran-green.svg" align="right"/>        
+6. Introductory Numerical Analysis, Anthony J. Pettofrezzo, Dover (2006).     
+7. Elementary Theory and Application of Numerical Analysis, David G. Moursund, Charles S. Duris, Dover (1988). <img src="https://img.shields.io/badge/Language-Fortran-green.svg" align="right"/>    
 
 There are several interesting books on this topic. The books listed above are known for their brevity and can be covered during a 3-4 months course. 
 
