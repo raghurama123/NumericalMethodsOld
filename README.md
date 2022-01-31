@@ -60,6 +60,8 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 6. Introductory Numerical Analysis, Anthony J. Pettofrezzo, Dover (2006).   
 7. Elementary Theory and Application of Numerical Analysis, David G. Moursund, Charles S. Duris, Dover (1988).   
 
+There are several interesting books on this topic. The books listed above are suitable for short courses such as this one. 
+
 ## Additional reading:    
 [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
 [Square Roots from 1; 24, 51, 10 to Dan Shanks](https://www.maa.org/programs/maa-awards/writing-awards/square-roots-from-1-24-51-10-to-dan-shanks)      
