@@ -60,7 +60,7 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 6. Introductory Numerical Analysis, Anthony J. Pettofrezzo, Dover (2006).     
 7. <img src="https://img.shields.io/badge/Language-Fortran-green.svg" align="right"/> Elementary Theory and Application of Numerical Analysis, David G. Moursund, Charles S. Duris, Dover (1988).    
 
-There are several interesting books on this topic. The books listed above are known for their brevity and can be covered during a 3-4 months course. Some of the books contain codes in languages mentioned on the right side. 
+There are several interesting books on this topic, some are very extensive. The books listed above are known for their brevity and can be covered during a 3-4 months course. Some of the books contain codes in languages mentioned on the right side. 
 
 ## Additional reading:    
 [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
