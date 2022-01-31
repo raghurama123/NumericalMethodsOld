@@ -62,6 +62,8 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 
 There are several interesting books on this topic. The books listed above are known for their brevity and can be covered during a 3-4 months course. 
 
+- <a href="https://doi.org/10.1103/physreve.82.055701"><img src="https://img.shields.io/badge/Matlab?labelColor=black&style=flat-square" align="right"/></a> **[Activity spread and breathers in two-dimensional neural fields (2010)](https://github.com/rougier/delayed-neural-field)**
+
 ## Additional reading:    
 [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
 [Square Roots from 1; 24, 51, 10 to Dan Shanks](https://www.maa.org/programs/maa-awards/writing-awards/square-roots-from-1-24-51-10-to-dan-shanks)      
