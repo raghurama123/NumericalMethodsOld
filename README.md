@@ -29,7 +29,7 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 
 1. Python: Writing/running codes, Jupyter notebooks, modules
 
-2. Linear Equations: Direct methods: Cramer's rule, row-reduction, forward/backward substitution, Gaussian elimination; LU factorization: Cholesky's method
+2. Linear Equations: Direct methods: Cramer's rule, row-reduction, forward/backward substitution, Gaussian elimination; LU factorization: Cholesky's method, `scipy.linalg.solve`, `scipy.linalg.cholesky`, `scipy.linalg.cho_factor`, `scipy.linalg.cho_solve`  
 
 3. Data Modeling: Approximations: least squares fitting; Interpolation: polynomial interpolation, `scipy.interpolate.interp1d`
 
@@ -52,10 +52,15 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 12. Optional Topics: Krylov Subspace Techniques, Lanczos iteration, Iterative linear solvers, Non-linear regression, Matrices: Rank and condition numbers
 
 ## References:     
-1. Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge University Press (2013).     
-2. A Student’s Guide to Python for Physical Modeling, Jesse M. Kinder, Philip Nelson, Princeton University Press (2018).     
+1. <img src="https://img.shields.io/badge/Language-Python-red.svg" align="right"/>Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge University Press (2013).    
+2. <img src="https://img.shields.io/badge/Language-Python-red.svg" align="right"/>A Student’s Guide to Python for Physical Modeling, Jesse M. Kinder, Philip Nelson, Princeton University Press (2018).        
 3. Numerical Methods, W. Boehm, H. Prautzsch, Universities Press (2000).     
-4. Elementary Numerical Analysis: An Algorithmic Approach, Samuel D. Conte, Carl de Boor, Edition 3, McGraw-Hill (1981).       
+4. <img src="https://img.shields.io/badge/Language-Matlab-blue.svg" align="right"/>Introduction to Numerical Computation, Lars Elden, Linde Wittmeyer-Koch, Hans Bruun Nielsen, Overseas Press (2006).     
+5. <img src="https://img.shields.io/badge/Language-Fortran-green.svg" align="right"/>Elementary Numerical Analysis: An Algorithmic Approach, Samuel D. Conte, Carl de Boor, Edition 3, McGraw-Hill (1981).        
+6. Introductory Numerical Analysis, Anthony J. Pettofrezzo, Dover (2006).     
+7. <img src="https://img.shields.io/badge/Language-Fortran-green.svg" align="right"/> Elementary Theory and Application of Numerical Analysis, David G. Moursund, Charles S. Duris, Dover (1988).    
+
+There are several interesting books on this topic, some are very extensive. The books listed above are known for their brevity and can be covered during a 3-4 months course. Some of the books contain codes in languages mentioned on the right side. However, the presentation in these books are generally applicable and make no reference to any particular programming language.
 
 ## Additional reading:    
 [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
