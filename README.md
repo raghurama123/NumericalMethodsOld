@@ -29,7 +29,7 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 
 1. Python: Writing/running codes, Jupyter notebooks, modules
 
-2. Linear Equations: Direct methods: Cramer's rule, row-reduction, forward/backward substitution, Gaussian elimination; LU factorization: Cholesky's method
+2. Linear Equations: Direct methods: Cramer's rule, row-reduction, forward/backward substitution, Gaussian elimination; LU factorization: Cholesky's method, `scipy.linalg.cholesky`, `scipy.linalg.cho_factor`, `scipy.linalg.cho_solve`  
 
 3. Data Modeling: Approximations: least squares fitting; Interpolation: polynomial interpolation, `scipy.interpolate.interp1d`
 
