@@ -51,7 +51,7 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 
 12. Optional Topics: Krylov Subspace Techniques, Lanczos iteration, Iterative linear solvers, Non-linear regression, Matrices: Rank and condition numbers
 
-## References:     
+## Suggested References:     
 1. <img src="https://img.shields.io/badge/Language-Python-red.svg" align="right"/>Numerical Methods in Engineering with Python 3, Jaan Kiusalaas, Cambridge University Press (2013).    
 2. <img src="https://img.shields.io/badge/Language-Python-red.svg" align="right"/>A Student’s Guide to Python for Physical Modeling, Jesse M. Kinder, Philip Nelson, Princeton University Press (2018).        
 3. Numerical Methods, W. Boehm, H. Prautzsch, Universities Press (2000).     
@@ -61,7 +61,7 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 7. <img src="https://img.shields.io/badge/Language-Fortran-green.svg" align="right"/> Elementary Theory and Application of Numerical Analysis, David G. Moursund, Charles S. Duris, Dover (1988).    
 8. <img src="https://img.shields.io/badge/Language-Matlab-blue.svg" align="right"/>A First Course in Computational Physics, Paul L. DeVries, Javier E. Hasbun, Jones & Bartlett, Ed.2 (2011).
 
-There are several interesting books on this topic, some are very extensive. The books listed above are known for their brevity and can be covered during a 3-4 months course. Some of the books contain codes in languages mentioned on the right side. However, the presentation in these books are generally applicable and make no reference to any particular programming language.
+There are several interesting books on this topic, some are very extensive. The books listed above are known for their brevity and can be covered during a 3-4 months course. Some of the books contain codes in languages mentioned on the right side. However, the presentation in these books are generally applicable and make no reference to any particular programming language. You can pick one or two of these books and use them alongside the course material. 
 
 ## Additional reading:    
 [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
