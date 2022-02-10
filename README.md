@@ -31,7 +31,7 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 
 2. Linear Equations: Direct methods: Cramer's rule, row-reduction, forward/backward substitution, Gaussian elimination; LU factorization: Cholesky's method, `scipy.linalg.solve`, `scipy.linalg.cholesky`, `scipy.linalg.cho_factor`, `scipy.linalg.cho_solve`  
 
-3. Data Modeling: Approximations: least squares fitting; Interpolation: polynomial interpolation, `scipy.interpolate.interp1d`
+3. Data Modeling: Approximations: least squares fitting, `numpy.polyval`, `numpy.polyfit`; Interpolation: polynomial interpolation, `scipy.interpolate.interp1d`
 
 4. Root finding: The problem, fixed-point iteration, bisection method, Newton-Raphson method (1-D and n-D), Jacobian matrix, pseudo-inverse, quasi-Newton method (1-D: secant method, n-D: Broyden), `scipy.optimize` 
 
