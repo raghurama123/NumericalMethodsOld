@@ -25,6 +25,10 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 
 _If you also Fork the material, then replace 'raghurama123' in the above line with your 'username'_
 
+## How to use to Github?
+
+If you want to learn about Github, you can try this tutorial: [Version control and Github](https://nu-cem.github.io/CompPhys/2021/08/02/Version_control.html)  
+
 ## Syllabus: 
 
 1. Python: Writing/running codes, Jupyter notebooks, modules
