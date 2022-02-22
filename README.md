@@ -31,7 +31,7 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 
 2. Linear Equations: Direct methods: Cramer's rule, row-reduction, forward/backward substitution, Gaussian elimination; LU factorization: Cholesky's method, `scipy.linalg.solve`, `scipy.linalg.cholesky`, `scipy.linalg.cho_factor`, `scipy.linalg.cho_solve`  
 
-3. Data Modeling: Approximations: least squares fitting; Interpolation: polynomial interpolation, `scipy.interpolate.interp1d`
+3. Data Modeling: Approximations: least squares fitting, `numpy.polyval`, `numpy.polyfit`; Interpolation: polynomial interpolation, `scipy.interpolate.interp1d`
 
 4. Root finding: The problem, fixed-point iteration, bisection method, Newton-Raphson method (1-D and n-D), Jacobian matrix, pseudo-inverse, quasi-Newton method (1-D: secant method, n-D: Broyden), `scipy.optimize` 
 
@@ -69,6 +69,7 @@ There are several interesting books on this topic, some are very extensive. The 
 [Babylon and the square root of 2](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)      
 [PEP 8 — Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)   
 [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)    
+[Learn Git](https://www.atlassian.com/git)  
 
 ## Contact
 For comments, questions, suggestions or requests please write to ramakrishnan@tifrh.res.in 
