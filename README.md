@@ -25,11 +25,11 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 
 _If you also Fork the material, then replace 'raghurama123' in the above line with your 'username'_
 
-## How to use to Github?
+## What is Github and how to use it?
 
 If you want to learn about Github, you can try these tutorials:    
- [Learn Git](https://www.atlassian.com/git)    
- [Version control and Github](https://nu-cem.github.io/CompPhys/2021/08/02/Version_control.html)   
+ 1. [Learn Git](https://www.atlassian.com/git)    
+ 2. [Version control and Github](https://nu-cem.github.io/CompPhys/2021/08/02/Version_control.html)   
 
 ## Syllabus: 
 
@@ -70,11 +70,11 @@ If you want to learn about Github, you can try these tutorials:
 There are several interesting books on this topic, some are very extensive. The books listed above are known for their brevity and can be covered during a 3-4 months course. Some of the books contain codes in languages mentioned on the right side. However, the presentation in these books are generally applicable and make no reference to any particular programming language. You can pick one or two of these books and use them alongside the course material. 
 
 ## Additional reading:    
-[Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
-[Square Roots from 1; 24, 51, 10 to Dan Shanks](https://www.maa.org/programs/maa-awards/writing-awards/square-roots-from-1-24-51-10-to-dan-shanks)      
-[Babylon and the square root of 2](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)      
-[PEP 8 — Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)   
-[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)    
+1. [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
+2. [Square Roots from 1; 24, 51, 10 to Dan Shanks](https://www.maa.org/programs/maa-awards/writing-awards/square-roots-from-1-24-51-10-to-dan-shanks)      
+3. [Babylon and the square root of 2](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)      
+4. [PEP 8 — Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)   
+5. [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)    
 
 ## Contact
 For comments, questions, suggestions or requests please write to ramakrishnan@tifrh.res.in 
