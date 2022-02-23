@@ -7,7 +7,7 @@ This repository contains Jupyter notebooks, images, PDFs, etc. prepared for the 
 
 ## How to access this material?
 
-First of all, this material is made available on the GitHub to encourage others to access it freely, maintain a local copy, and may be even contribute corrections or new material. So, you can follow the _three steps_ listed below freely, i.e., without having to commit to any responsibilities. 
+First of all, this material is made available on the GitHub to encourage others to access it freely, maintain a local copy, and may be even contribute corrections or new material. So, you can follow _one of the three steps_ listed below freely, i.e., without having to commit to any responsibilities. 
 
 1. If you think that you will ever use (or reuse) this material (or a part of it) for any purpose, you should sign-in to github by creating an account (maybe google account works for this too), and then click the 'Fork' button on the top-right. Then, you will get a local copy to play with. You will also be notified when any changes is made to this master version. You will be able to merge the new changes to your own copy of this repository. Others can also _pull_ the changes you make in your version.
 
