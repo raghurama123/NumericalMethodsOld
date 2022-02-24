@@ -7,7 +7,7 @@ This repository contains Jupyter notebooks, images, PDFs, etc. prepared for the 
 
 ## How to access this material?
 
-First of all, this material is made available on the GitHub to encourage others to access it freely, maintain a local copy, and may be even contribute corrections or new material. So, you can follow the _three steps_ listed below freely, i.e., without having to commit to any responsibilities. 
+First of all, this material is made available on the GitHub to encourage others to access it freely, maintain a local copy, and may be even contribute corrections or new material. So, you can follow _one of the three steps_ listed below freely, i.e., without having to commit to any responsibilities. 
 
 1. If you think that you will ever use (or reuse) this material (or a part of it) for any purpose, you should sign-in to github by creating an account (maybe google account works for this too), and then click the 'Fork' button on the top-right. Then, you will get a local copy to play with. You will also be notified when any changes is made to this master version. You will be able to merge the new changes to your own copy of this repository. Others can also _pull_ the changes you make in your version.
 
@@ -24,6 +24,12 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 3. If you want to try the material in a web browser, i.e., to test the code or make small changes and run the code, you can access this repository at the interactive platform Binder by clicking the link: https://mybinder.org/v2/gh/raghurama123/NumericalMethods/HEAD
 
 _If you also Fork the material, then replace 'raghurama123' in the above line with your 'username'_
+
+## What is Github and how to use it?
+
+If you want to learn about Github, you can try these tutorials:    
+ 1. [Learn Git](https://www.atlassian.com/git)    
+ 2. [Version control and Github](https://nu-cem.github.io/CompPhys/2021/08/02/Version_control.html)   
 
 ## Syllabus: 
 
@@ -64,12 +70,11 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 There are several interesting books on this topic, some are very extensive. The books listed above are known for their brevity and can be covered during a 3-4 months course. Some of the books contain codes in languages mentioned on the right side. However, the presentation in these books are generally applicable and make no reference to any particular programming language. You can pick one or two of these books and use them alongside the course material. 
 
 ## Additional reading:    
-[Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
-[Square Roots from 1; 24, 51, 10 to Dan Shanks](https://www.maa.org/programs/maa-awards/writing-awards/square-roots-from-1-24-51-10-to-dan-shanks)      
-[Babylon and the square root of 2](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)      
-[PEP 8 — Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)   
-[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)    
-[Learn Git](https://www.atlassian.com/git)  
+1. [Introduction to object-oriented programming in Python with examples](https://www.programiz.com/python-programming/object-oriented-programming)     
+2. [Square Roots from 1; 24, 51, 10 to Dan Shanks](https://www.maa.org/programs/maa-awards/writing-awards/square-roots-from-1-24-51-10-to-dan-shanks)      
+3. [Babylon and the square root of 2](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)      
+4. [PEP 8 — Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)   
+5. [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)    
 
 ## Contact
 For comments, questions, suggestions or requests please write to ramakrishnan@tifrh.res.in 
