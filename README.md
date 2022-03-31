@@ -66,6 +66,7 @@ If you want to learn about Github, you can try these tutorials:
 6. Introductory Numerical Analysis, Anthony J. Pettofrezzo, Dover (2006).     
 7. <img src="https://img.shields.io/badge/Language-Fortran-green.svg" align="right"/> Elementary Theory and Application of Numerical Analysis, David G. Moursund, Charles S. Duris, Dover (1988).    
 8. <img src="https://img.shields.io/badge/Language-Matlab-blue.svg" align="right"/>A First Course in Computational Physics, Paul L. DeVries, Javier E. Hasbun, Jones & Bartlett, Ed.2 (2011).
+9. <img src="https://img.shields.io/badge/Language-Python-red.svg" align="right"/>[ Python Programming and Numerical Methods - A Guide for Engineers and Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html), Qingkai Kong, Timmy Siauw, Alexandre Bayen   
 
 There are several interesting books on this topic, some are very extensive. The books listed above are known for their brevity and can be covered during a 3-4 months course. Some of the books contain codes in languages mentioned on the right side. However, the presentation in these books are generally applicable and make no reference to any particular programming language. You can pick one or two of these books and use them alongside the course material. 
 
