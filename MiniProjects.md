@@ -1,3 +1,5 @@
+# Here are the list of mini-projects offered as homework along with notebooks containing solutions presented by students.
+
 ## Mechanical System
 
 ## Heat of formation
@@ -10,6 +12,8 @@
 
 ## Stiff ODE application to reaction
 
-## H$_2^{+}$
-H$_2^+$ is the simplest of all molecules comprising of two protons bind together by a single electron.
-With in Born-Oppenheimer approxima- tion, the Hamiltonian operator for this molecule, in atomic units, is given by
+## Hydrogen atom
+
+## Hydrogen molecule cation
+
+## A problem in electrostatics
