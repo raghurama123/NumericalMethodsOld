@@ -28,8 +28,9 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 ## What is Github and how to use it?
 
 If you want to learn about Github, you can try these tutorials:    
- 1. [Learn Git](https://www.atlassian.com/git)    
- 2. [Version control and Github](https://nu-cem.github.io/CompPhys/2021/08/02/Version_control.html)   
+ 1. [Git Tutorial](https://www.w3schools.com/git/default.asp?remote=github)    
+ 2. [Learn Git](https://www.atlassian.com/git)    
+ 3. [Version control and Github](https://nu-cem.github.io/CompPhys/2021/08/02/Version_control.html)   
 
 ## Syllabus: 
 
